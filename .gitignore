@@ -11,3 +11,6 @@ wheels/
 .idea
 .vscode
 .ruff_cache
+/src/app.log
+
+*.log
