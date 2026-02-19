@@ -1,7 +1,7 @@
 import logging
 
-from flashcards.example import add
-from flashcards.logging_config import configure_logging
+from .example import add
+from .logging_config import configure_logging
 
 logger = logging.getLogger(__name__)
 
