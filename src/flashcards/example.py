@@ -1,6 +1,6 @@
 import logging
 
-from src.utils import log_around
+from utils import log_around
 
 logger = logging.getLogger(__name__)
 
